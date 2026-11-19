@@ -251,8 +251,8 @@ a { color: inherit; }
   margin-top: 24px;
   font-family: var(--serif);
   font-weight: 400;
-  font-size: clamp(32px, 7.5vw, 52px);
-  line-height: 1.12;
+  font-size: clamp(38px, 9vw, 72px);
+  line-height: 1.08;
   letter-spacing: -.01em;
   text-wrap: balance;
   color: var(--tortora-text);
