@@ -106,7 +106,7 @@
     outExtra.textContent = 'Recibes ' + eur(amount * t.product) + ' más en producto';
 
     if (next && next.min - amount < NEAR) {
-      msg.textContent = 'Con ' + eur(next.min - amount) + ' más pasas al siguiente nivel';
+      msg.textContent = 'Con ' + eur(next.min - amount) + ' más pasas a la siguiente opción';
     } else {
       msg.textContent = '';
     }
